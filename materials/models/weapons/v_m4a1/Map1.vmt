@@ -4,5 +4,9 @@
 	"$bumpmap" "models\weapons\v_M4a1\map1_normal"
 	"$envmap" "env_cubemap"
 	"$normalmapalphaenvmapmask" 1
-	"$envmaptint" "[ 0.6 0.6 0.6 ]"
+	"$envmaptint" "[ 0.8 0.8 1 ]"
+	"$phong" "1"
+	"$phongexponent" "45"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[0.1 0.8 1]"
 }
